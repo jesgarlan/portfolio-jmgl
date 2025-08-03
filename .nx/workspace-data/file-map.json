@@ -1,0 +1,146 @@
+{
+  "version": "6.0",
+  "nxVersion": "21.3.11",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "portfolio-jmgl": [
+        {
+          "file": ".prettierignore",
+          "hash": "5407418692668764289"
+        },
+        {
+          "file": ".prettierrc",
+          "hash": "16267754514737964994"
+        },
+        {
+          "file": "README.md",
+          "hash": "7728526259138687204"
+        },
+        {
+          "file": "eslint.config.mjs",
+          "hash": "10770449096712831357"
+        },
+        {
+          "file": "jest.config.ts",
+          "hash": "6870352021923392442"
+        },
+        {
+          "file": "jest.preset.js",
+          "hash": "9430166341120122740"
+        },
+        {
+          "file": "nx.json",
+          "hash": "13806134584555059704"
+        },
+        {
+          "file": "package-lock.json",
+          "hash": "292652391240797969"
+        },
+        {
+          "file": "package.json",
+          "hash": "15088794985593084848",
+          "deps": [
+            "npm:@angular-devkit/core",
+            "npm:@angular-devkit/schematics",
+            "npm:@eslint/js",
+            "npm:@nx/angular",
+            "npm:@nx/eslint",
+            "npm:@nx/js",
+            "npm:@nx/web",
+            "npm:@schematics/angular",
+            "npm:@swc/helpers",
+            "npm:@types/node",
+            "npm:@typescript-eslint/utils",
+            "npm:eslint",
+            "npm:jest-util",
+            "npm:nx",
+            "npm:tslib",
+            "npm:typescript",
+            "npm:rxjs"
+          ]
+        },
+        {
+          "file": "tsconfig.base.json",
+          "hash": "16936441711144470533"
+        }
+      ],
+      "shell": [
+        {
+          "file": "shell/eslint.config.mjs",
+          "hash": "15052851186193004871"
+        },
+        {
+          "file": "shell/jest.config.ts",
+          "hash": "12443077723975770363"
+        },
+        {
+          "file": "shell/project.json",
+          "hash": "17523364342900154085"
+        },
+        {
+          "file": "shell/public/favicon.ico",
+          "hash": "9303420814833116677"
+        },
+        {
+          "file": "shell/src/app/app.config.ts",
+          "hash": "4515289115773032281"
+        },
+        {
+          "file": "shell/src/app/app.html",
+          "hash": "11987652264972370457"
+        },
+        {
+          "file": "shell/src/app/app.routes.ts",
+          "hash": "6185150965714414910"
+        },
+        {
+          "file": "shell/src/app/app.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "shell/src/app/app.spec.ts",
+          "hash": "12164898256445777378"
+        },
+        {
+          "file": "shell/src/app/app.ts",
+          "hash": "8304404393934299473"
+        },
+        {
+          "file": "shell/src/app/nx-welcome.ts",
+          "hash": "9853477230199189745"
+        },
+        {
+          "file": "shell/src/index.html",
+          "hash": "6118171675619996744"
+        },
+        {
+          "file": "shell/src/main.ts",
+          "hash": "3314327030169821486"
+        },
+        {
+          "file": "shell/src/styles.scss",
+          "hash": "5195668842064076916"
+        },
+        {
+          "file": "shell/src/test-setup.ts",
+          "hash": "1917999429567095215"
+        },
+        {
+          "file": "shell/tsconfig.app.json",
+          "hash": "8568250495626871748"
+        },
+        {
+          "file": "shell/tsconfig.json",
+          "hash": "6343381516642186316"
+        },
+        {
+          "file": "shell/tsconfig.spec.json",
+          "hash": "1029128818174064697"
+        }
+      ]
+    },
+    "nonProjectFiles": []
+  }
+}
